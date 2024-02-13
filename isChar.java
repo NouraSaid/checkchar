@@ -1,7 +1,7 @@
 import java.util.*; 
 import java.lang.*; 
   
-public class GFG { 
+public class isChar { 
   
     public static void main(String[] args) 
     { 
